@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.AndroidMapsUtils.Droid", "Naxam.AndroidMapsUtils.Droid\Naxam.AndroidMapsUtils.Droid.csproj", "{ED17CC56-C517-49B8-A461-42FC4C2157AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{DC5C66F5-A54F-4830-99CA-EA6AAD3F4534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidMapsUtilsQs", "demo\AndroidMapsUtilsQs\AndroidMapsUtilsQs.csproj", "{A3BEB870-EE2B-4DEB-B722-198F5973529C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED17CC56-C517-49B8-A461-42FC4C2157AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED17CC56-C517-49B8-A461-42FC4C2157AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED17CC56-C517-49B8-A461-42FC4C2157AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED17CC56-C517-49B8-A461-42FC4C2157AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BEB870-EE2B-4DEB-B722-198F5973529C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BEB870-EE2B-4DEB-B722-198F5973529C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BEB870-EE2B-4DEB-B722-198F5973529C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BEB870-EE2B-4DEB-B722-198F5973529C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3BEB870-EE2B-4DEB-B722-198F5973529C} = {DC5C66F5-A54F-4830-99CA-EA6AAD3F4534}
+	EndGlobalSection
+EndGlobal

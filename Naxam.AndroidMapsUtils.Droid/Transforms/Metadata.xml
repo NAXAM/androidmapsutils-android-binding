@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <attr path="/api/package[@name='com.google.maps.android.geojson']/interface[@name='GeoJsonStyle']" name="visibility">public</attr>
+	<attr path="/api/package[@name='com.google.maps.android.kml']/class[@name='KmlMultiGeometry']/method[@name='getGeometryObject' and count(parameter)=0]" name="propertyName">KmlGeometryObject</attr>
+	<attr path="/api/package[@name='com.google.maps.android.kml']/class[@name='KmlLineString']/method[@name='getGeometryObject' and count(parameter)=0]" name="propertyName">KmlGeometryObject</attr>
+	<attr path="/api/package[@name='com.google.maps.android.kml']/class[@name='KmlPoint']/method[@name='getGeometryObject' and count(parameter)=0]" name="propertyName">KmlGeometryObject</attr>
+	<attr path="/api/package[@name='com.google.maps.android.kml']/class[@name='KmlPolygon']/method[@name='getGeometryObject' and count(parameter)=0]" name="propertyName">KmlGeometryObject</attr>
+</metadata>

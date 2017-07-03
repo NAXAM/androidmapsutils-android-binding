@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.AndroidMapsUtils.Droid</id>
+        <version>0.4.1</version>
+        <description>Xamarin Binding Library - Android  Maps Utils</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Android  Maps Utils</title>
+        <releaseNotes>Android  Maps Utils v0.4.1</releaseNotes>
+        <summary>Xamarin Binding Library - Android  Maps Utils</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/androidmapsutils-android-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, google-maps, android-maps-utils</tags>
+        <dependencies>
+            <dependency id="Xamarin.GooglePlayServices.Maps" version="42.1021.1" />
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.AndroidMapsUtils.Droid/bin/Release/Naxam.AndroidMapsUtils.Droid.dll" target="lib/MonoAndroid10/Naxam.AndroidMapsUtils.Droid.dll" />
+    </files>
+</package>
